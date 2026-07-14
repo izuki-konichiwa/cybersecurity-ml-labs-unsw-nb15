@@ -1,0 +1,8 @@
+UNSW-NB15 Dataset
+
+Source:
+https://www.kaggle.com/datasets/dhoogla/unswnb15
+
+Files Used:
+- UNSW_NB15_training-set.parquet
+- UNSW_NB15_testing-set.parquet
