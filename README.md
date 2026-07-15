@@ -171,7 +171,21 @@ Implemented:
 This repository is intended for educational and research purposes. The dataset is publicly available and belongs to its respective creators. All experiments are conducted solely for learning machine learning and cybersecurity concepts.
 
 ---
+---
+## Key Results
 
+- Original Records: 175,341
+- Duplicate Records Removed: 78,519
+- Remaining Records: 96,822
+- Missing Values: 0
+- New Features Created: 4
+- Features Selected: Top 20 Features
+- Scaling Techniques Evaluated:
+  - StandardScaler
+  - MinMaxScaler
+  - RobustScaler
+- Machine Learning Task: Binary Intrusion Detection
+---
 ## Author
 
 Machine Learning and Cybersecurity Laboratory Repository based on the UNSW-NB15 Dataset.
