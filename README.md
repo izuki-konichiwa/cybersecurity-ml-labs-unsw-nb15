@@ -86,18 +86,27 @@ https://www.kaggle.com/datasets/dhoogla/unswnb15
 unsw-nb15-machine-learning-labs/
 │
 ├── README.md
-├── datasets/
+├── LICENSE
+├── .gitignore
+│
+├── dataset/
 │   └── dataset_link.txt
 │
-├── lab01_preprocessing/
-├── lab02_feature_engineering/
-├── lab03_feature_selection/
-├── lab04_feature_scaling/
-├── lab05_classification/
-├── lab06_clustering/
-├── lab07_pca/
+├── notebooks/
+│   └── UNSW_NB15_Feature_Engineering_Selection_Scaling.ipynb
 │
-└── reports/
+├── reports/
+│   ├── UNSW-NB15_Preprocessing_Report.docx
+│
+└── images/
+    ├── slide01_cover.png
+    ├── slide02_dataset_overview.png
+    ├── slide03_data_exploration.png
+    ├── slide04_data_cleaning.png
+    ├── slide05_feature_engineering.png
+    ├── slide06_feature_selection.png
+    ├── slide07_feature_scaling.png
+    └── slide08_pipeline.png
 ```
 
 ---
@@ -118,6 +127,18 @@ Implemented:
   * MinMaxScaler
   * RobustScaler
 * Binary intrusion detection using machine learning models
+
+---
+---
+## Repository Contents
+
+| Resource | Description |
+|-----------|------------|
+| Jupyter Notebook | Complete implementation of preprocessing, feature engineering, feature selection, and scaling |
+| Preprocessing Report | Detailed explanation of methodology, results, and observations |
+| Carousel Infographic | Visual storytelling of the dataset preprocessing journey |
+| Dataset Source | Kaggle link for UNSW-NB15 dataset |
+| Visual Assets | Carousel slides and project graphics |
 
 ---
 
